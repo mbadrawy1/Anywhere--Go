@@ -1,2 +1,2 @@
 # Anywhere  Go
- Anywhere Go app updated regularly
+ Anywhere Go app updated 
